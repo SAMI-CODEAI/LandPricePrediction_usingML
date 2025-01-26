@@ -31,7 +31,7 @@ If you're using Google Colab, you can also upload the dataset using the file upl
 ## Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/LandPricePrediction.git
+   git clone https://github.com/SAMI-CODEAI/LandPricePrediction.git
    ```
 2. Navigate to the project directory:
    ```bash
